@@ -1,0 +1,8 @@
+name: HeadDropper
+version: ${project.version}
+main: tk.fridtjof.headdropper.HeadDropper
+api-version: 1.16
+authors: [Fridtjof_DE]
+description: Mobs and players will drop their head on death.
+website: https://www.fridtjof.tk/
+depend: [PuddingAPI]
